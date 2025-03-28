@@ -4,7 +4,7 @@ const assets = {
     appIcon: require('./images/trello_name.png')
   },
   colors: {
-    secondary: '#00c2e0'
+    secondary: '#0079bf'
   }
 }
 

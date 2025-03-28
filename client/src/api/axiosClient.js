@@ -1,7 +1,7 @@
 import axios from 'axios'
 import queryString from 'query-string'
 
-const baseUrl = 'https://task-manager-react-five-chi.vercel.app/api/v1/'
+const baseUrl = 'https://task-manager-react-backend.vercel.app/api/v1/'
 const getToken = () => localStorage.getItem('token')
 
 const axiosClient = axios.create({
